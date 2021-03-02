@@ -1,7 +1,14 @@
-section.iphone
+div.iphone
 {
     background-image: url(img/marco.png);
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 50%;
+}
+img.img_perfil
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 5px;
 }
